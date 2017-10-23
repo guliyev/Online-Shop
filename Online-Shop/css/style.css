@@ -1,0 +1,174 @@
+body{
+margin: 0px;
+}
+.Header-content{
+width: 100%;
+height: 3.5em;
+background: #f3f5f8;
+margin: 0px;
+padding: 15px 30px;
+}
+.call{
+}
+.Header-content .h7{
+color: #999999;
+}
+.head{
+float: left;
+}
+.headright{
+line-height: 2px;
+}
+.dropdown-menu{
+margin-top:2em;
+}
+.Cogi{
+margin-right: 0%;
+}
+.dropdown-toggle{
+margin-right: 10px;
+margin-top: -8px;
+}
+.valyuta{
+margin-right: 60px;
+}
+.fa-shopping-cart{
+margin-right: 4%;
+}
+.header-container{
+width: 93%;
+height: 9em;
+margin-top: 0;
+margin-left: 7%;
+}
+.container-line{
+border-right: 1px solid black;
+width: 1px;
+height: 60px;
+margin-top: -3.0%;
+margin-left: 17em;
+}
+.logo img{
+margin-top: 3em;
+}
+ul.Menu{
+height: 50px;
+padding: 0px;
+margin: 0px;
+list-style: none;
+width: 66em;
+}
+ul.Menu li{
+float: left;
+height: 20px;
+margin-top: 4%;
+margin: 20px;
+margin-left:3%;
+padding-right: : 20px;
+}
+ul.Menu li a{
+display: block;
+font-size: 15px;
+padding: 0px;
+text-decoration: none;
+color: black;
+font-weight: 600;
+}
+.Pages{
+margin-left: 40px;
+}
+.Woman{
+margin-left: 30px;
+}
+@import url(https://fonts.googleapis.com/css?family=Lato:100,300,400,700);
+@import url(https://raw.github.com/FortAwesome/Font-Awesome/master/docs/assets/css/font-awesome.min.css);
+#wrap {
+margin: 24px 100px;
+display: inline-block;
+position: relative;
+height: 60px;
+float: right;
+padding: 0;
+position: relative;
+}
+input[type="text"] {
+height: 30px;
+font-size: 20px;
+display: inline-block;
+font-family: "Lato";
+font-weight: 20;
+border: none;
+outline: none;
+padding: 3px;
+padding-right: 12px;
+width: 0px;
+position: absolute;
+top: 0;
+right: 0;
+background: none;
+z-index: 3;
+transition: width .4s cubic-bezier(0.000, 0.200, 0.000, .100);
+cursor: pointer;
+margin-top: -4%;
+}
+input[type="text"]:focus:hover {
+border-bottom: 1px solid #BBB;
+}
+input[type="text"]:focus {
+width: 200px;
+z-index: 1;
+border-bottom: 1px solid #BBB;
+cursor: text;
+color:#555;
+}
+input[type="submit"] {
+height: 20px;
+width: 20px;
+display: inline-block;
+float: right;
+text-indent: -10000px;
+border: none;
+position: absolute;
+top: 0;
+right: 0;
+z-index: 2;
+cursor: pointer;
+opacity: 0.4;
+cursor: pointer;
+transition: opacity .4s ease;
+}
+input[type="submit"]:hover {
+opacity: 0.8;
+}
+.w3-red{
+margin-top:15%;
+width: 8%;
+height: 12%;
+}
+.longkub{
+
+	width: 35em;
+	height: 22em;
+	background: red;
+	margin-top: 20px;
+	margin-left: 6em;
+}
+h2{
+	text-align: center;
+}
+.dublekub{
+
+	width: 19em;
+	background: red;
+	height: 250px;
+	height: 22em;
+	display:inline-block;
+	margin-right: 3%;
+}
+.kub{
+
+	margin-left: 43em;
+    margin-top: -22em;
+   
+
+}
